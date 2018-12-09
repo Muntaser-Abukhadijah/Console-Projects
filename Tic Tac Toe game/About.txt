@@ -1,0 +1,3 @@
+It's just a simple XO game implementation.
+So far available to play two players (human vs. human).
+I plan to add another option (human vs computer).
